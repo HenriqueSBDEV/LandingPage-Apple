@@ -25,7 +25,7 @@ header div img {
 
 nav ul li a{
     text-decoration: none;
-    color: rgb(126, 121, 121);
+    color: rgb(255, 255, 255);
     font-size: 20px;
 }
 
@@ -167,7 +167,7 @@ section div{
     height: 36px;
     display: block;
     border-radius: 18px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(153, 150, 150);
     box-shadow: 2px 2px 5px black;
     cursor: pointer;
 }
